@@ -1,8 +1,7 @@
 # Hi — I’m Tam Yoke Weng 👋
 
-Cloud Support & DevOps — Singapore  
-Technology professional with nearly 30 years of experience in complex technical design, problem-solving, requirements analysis, project delivery, and cross-functional collaboration within the semiconductor industry.  
-Currently open to opportunities and collaboration.
+Silicon Technical Manager (Image Senors) — Singapore  
+Analog IC design with 30 years experience, been through numerous cycles of designs, tapeouts, silicon validations and technical documentations
 
 ---
 
