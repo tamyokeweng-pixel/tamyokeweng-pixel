@@ -11,9 +11,9 @@ Learning: Terraform, Kubernetes, and GitOps practices.
 
 ## 🧰 Tech & Tools
 - Cloud & Infra: Microsoft Azure (App Services, VM, Storage), Azure DevOps, Terraform
-- Languages: Python, Bash, (some) JavaScript
+- Languages: Python, Bash
 - Frameworks & Services: Flask, Docker, Kubernetes
-- Tools: Git, GitHub Actions, Docker, Helm, Prometheus
+- Tools: Git, GitHub Actions, Docker
 - Domain knowledge: Analog IC design workflows, semiconductor design toolchains, memory & IO IP design considerations
 
 ## ⭐ Featured projects
@@ -36,10 +36,8 @@ Tip: add a short GIF or screenshot for the Flask app and links (or PDFs) for the
 
 ## 📫 Contact
 - Email: tamyokeweng@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/tam-yoke-weng-7856343aa/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmDxWIIYBR6SUA8ymxSRPxg%3D%3D
+- LinkedIn: https://www.linkedin.com/in/tam-yoke-weng-7856343a
 
 ## 📄 Resume
-Download: (add link to your resume PDF)
+Download: (add a link)
 
-## ⚖️ License
-This profile README is available under the MIT License.
